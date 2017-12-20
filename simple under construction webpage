@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+<title>Page Under Construction</title>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+<style type="text/css">
+
+body {
+  background-color:#000;
+  <!-- command for color you want for background.Like for Red code is #FF0000. Just google. :-P -->
+}
+.img {
+  margin:0px 0px 0px 900px;
+  <!--   This is the margin command to adjust your image on screen -->
+}
+</style>
+</head>
+<body>
+<div class="img"><img src="underconstruction1.jpg" alt="Under Construction"></div>
+<!-- here "underconstruction1.jpg" is the name of the image i am using.Imgsrc command will take the image from the source and display it.If your image is in different folder give the path. Like for example if it is in folder var. Then command will be <imgsrc="/var/underconstruction1.jpg">.and Alt command will display the alternative name if the image does not load up-->
+</body>
+</html>
